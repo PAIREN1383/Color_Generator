@@ -108,5 +108,6 @@ About Me:
         fname = input("Enter name of the new html file for the result (ex: 'newcolors'): ").strip() + ".html"
         correct_file_name = check_name(fname)
         file_creator(correct_file_name, ncolors, nrepetitions)
+        print(f"Your HTML file has been successfully generated.\nYour file path: '{file_dir()+correct_file_name}'")
     if choose == "2" or choose.lower() == "e" or choose.lower() == "q": # Exit
         break
