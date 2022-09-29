@@ -21,4 +21,8 @@ You can generate random colors to design a website or cover design for videos et
 
 - Step 7: Find the HTML file near the program and open it. It will be saved in the program directory.
 
+![This is an imgae from tool](https://github.com/PAIREN1383/Color_Generator/blob/main/Color_generator_img.PNG)
+Preview the test result: https://htmlpreview.github.io/?https://github.com/PAIREN1383/Color_Generator/blob/main/Color_Generator/Test.html
+
+
 Don't forget to give a star. ;)
