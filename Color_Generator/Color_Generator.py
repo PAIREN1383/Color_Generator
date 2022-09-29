@@ -75,34 +75,32 @@ while True:
     if choose == "0": # Help
         print(f"""###############################################
 Help Content:
-  Why was this tool created? 
-    You can generate random colors to design a website or cover design for videos etc.
+- Why was this tool created? 
+--- You can generate random colors to design a website or cover design for videos etc.
 
-
-  How can I use it?
-    Step 1: Open the program.
+- How can I use it?
+--- Step 1: Open the program.
     
-    Step 2: Enter '1'.
+--- Step 2: Enter '1'.
     
-    Step 3: Choose how many colors the color combination contains. Enter a number like 10.
+--- Step 3: Choose how many colors the color combination contains. Enter a number like 10.
     
-    Step 4: You need several color combinations for finding an appropriate color combination.
-    Enter a number like 100.
+--- Step 4: You need several color combinations for finding an appropriate color combination.
+Enter a number like 100.
     
-    Step 5: Enter an appropriate name (without these characters: \/:*?"<>|) for new HTML file.
-    The results will be in it. You do not need to end the name with '.html'.
+--- Step 5: Enter an appropriate name (without these characters: \/:*?"<>|) for new HTML file.
+The results will be in it. You do not need to end the name with '.html'.
     
-    Step 6: Enter 'q' or 'e' or '2' to exit the program.
+--- Step 6: Enter 'q' or 'e' or '2' to exit the program.
     
-    Step 7: Find the HTML file near the program and open it.
-    It will be saved in the program directory.
-    Right here: {file_dir()}
+--- Step 7: Find the HTML file near the program and open it.
+It will be saved in the program directory. Right here: {file_dir()}
 
 
 
 About Me:
-  My GitHub Link: https://github.com/PAIREN1383
-  Coded By: MohammadAli
+- My GitHub Link: https://github.com/PAIREN1383
+- Coded By: MohammadAli
 ###############################################""")
     if choose == "1": # Color Generator
         ncolors = int(input("Choose how many colors the color combination contains (ex: '5'): "))
