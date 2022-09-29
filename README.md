@@ -15,7 +15,7 @@ You can generate random colors to design a website or cover design for videos et
 
 - Step 4: You need several color combinations for finding an appropriate color combination. Enter a number like 100.
 
-- Step 5: Enter an appropriate name (without these characters: \/:*?"<>|) for new HTML file. The results will be in it. You do not need to end the name with '.html'.
+- Step 5: Enter an appropriate name (without these characters: \\/:*?"<>|) for new HTML file. The results will be in it. You do not need to end the name with '.html'.
 
 - Step 6: Enter 'q' or 'e' or '2' to exit the program.
 
