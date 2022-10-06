@@ -100,7 +100,7 @@ It will be saved in the program directory. Right here: {file_dir()}
 
 About Me:
 - My GitHub Link: https://github.com/PAIREN1383
-- Coded By: MohammadAli
+- Author: MohammadAli
 ###############################################""")
     if choose == "1": # Color Generator
         ncolors = int(input("Choose how many colors the color combination contains (ex: '5'): "))
